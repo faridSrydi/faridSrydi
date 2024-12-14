@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Farid Suryadi
 
-<!--
-**faridSrydi/faridSrydi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Let's connect!
+<p>
+    <a href="https://t.me/greyvbss" target="blank"><img src="https://img.shields.io/badge/@tofik_dn-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://www.instagram.com/faridsuryadi" target="blank"><img src="https://img.shields.io/badge/@faridsuryadi-30302f?style=flat&logo=instagram" /></a>
+</p>
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
+___

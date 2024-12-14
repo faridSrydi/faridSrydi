@@ -2,7 +2,7 @@
 
 ## Let's connect!
 <p>
-    <a href="https://t.me/greyvbss" target="blank"><img src="https://img.shields.io/badge/@tofik_dn-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/greyvbss" target="blank"><img src="https://img.shields.io/badge/@greyvbss-30302f?style=flat&logo=telegram" /></a>
     <a href="https://www.instagram.com/faridsuryadi" target="blank"><img src="https://img.shields.io/badge/@faridsuryadi-30302f?style=flat&logo=instagram" /></a>
 </p>
 
